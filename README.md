@@ -22,4 +22,6 @@ I used Jest and Enzyme to test the components.
 
 ## Notes
 
-Added basic validation for form zipcode.
+Add meaningful validations to your steps..
+
+Write and tests using my favorite testing framework..
